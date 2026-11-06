@@ -1,3 +1,36 @@
+💫 Hi 👋, I'm Sareena!
+
+Aspiring Java Full Stack Developer | Software Developer | Web Developer from India 🇮🇳
+
+I'm passionate about building web applications, learning new technologies, and solving real-world problems through coding.
+
+📧 Email Me: sareenagh2001@gmail.com
+
+🔭 I'm currently working on: Developing web applications and improving my coding skills.
+
+🌱 I'm currently learning: Java, Spring Boot, React.js, MySQL, and RESTful APIs.
+
+👯 I'm looking to collaborate on: Java Full Stack and Web Development projects.
+
+🤝 I'm looking for help with: Improving my backend development and building real-world applications.
+
+💬 Ask me about: Java, Core Java, Spring Boot, React.js, HTML, CSS, JavaScript, and MySQL.
+
+📫 How to reach me: sareenagh2001@gmail.com
+
+⚡ Fun fact: I love learning new technologies and turning ideas into applications!
+
+💻 Tech Stack
+
+Programming: Java, JavaScript
+
+Frontend: HTML, CSS, React.js
+
+Backend: Spring Boot, Spring Framework
+
+Database: MySQL
+
+Tools: Git, GitHub, Eclipse, VS Code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sareena-g) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sareenaghosur@gmail.com) 
